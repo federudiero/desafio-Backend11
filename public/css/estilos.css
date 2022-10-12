@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+  }
+  
+  label {
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  .jumbotron {
+    min-height: 100vh;
+  }
+  
+  td img {
+    max-height: 4em;
+  }
+  
+  #mensajes .email {
+    color: blue;
+    font-weight: bold;
+  }
+  #mensajes .dateTime {
+    color: brown;
+  }
+  
+  #mensajes .text {
+    font-style: italic;
+    color: green;
+  }
